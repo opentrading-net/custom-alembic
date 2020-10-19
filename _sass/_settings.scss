@@ -2,13 +2,13 @@
 $backgroundColour: #ffffff !default;
 $codeBackgroundColour: #fafafa !default;
 $featureBackgroundColour: #f9fafa !default;
-$accentColour: #05bf85 !default;
+$accentColour: #3705bf !default;
 
 // Text colours
-$headingColour: #242e2b !default;
-$bodyColour: #384743 !default;
-$linkColour: #05bf85 !default;
-$hoverColour: #008000 !default;
+$headingColour: #3761b1 !default;
+$bodyColour: #2a27be !default;
+$linkColour: #687ab6 !default;
+$hoverColour: #2c3b94 !default;
 $focusColour: #fa407a !default;
 $captionColour: #a8adac !default;
 $white: #ffffff !default;
@@ -23,7 +23,7 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: '"Merriweather", serif',
+  font-family: ''"Gotham A","Gotham B",sans-serif';,
   regular: 400,
   bold: 700,
   cap-height: 0.75
