@@ -1,6 +1,6 @@
 ---
 title: Open Trading Network
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/damon-lam-H6EMwD6pkOE-unsplash.jpg"
 excerpt: "Open Trading Networks builds solution for the commodity and energy trading sector."
 ---
 
