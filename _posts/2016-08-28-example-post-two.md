@@ -1,5 +1,6 @@
 ---
 title: History of the Alembic
+layout: post
 categories:
 - History
 feature_text: |

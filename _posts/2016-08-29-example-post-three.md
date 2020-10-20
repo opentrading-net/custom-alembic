@@ -1,5 +1,6 @@
 ---
 title: Description of a Pot Still
+layout: post
 categories:
 - General
 excerpt: |
