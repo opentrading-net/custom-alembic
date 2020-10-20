@@ -66,7 +66,7 @@ collections:
     title: Posts # Needed for Siteleaf
     output: true
     description: "Open experiences in trading.." # The post list page content
-    feature_image: "/assets/josiah-gascho-BA-sT9iabco-unsplash.jpg"
+    feature_image: "https://docs.opentrading.net/custom-alembic/assets/josiah-gascho-BA-sT9iabco-unsplash.jpg"
     side: true
 
 # 6. Jekyll collections settings
