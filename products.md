@@ -1,9 +1,7 @@
 ---
 title: Products
-feature_text: |
-  A demo of Markdown and HTML includes
-feature_image: "https://docs.opentrading.net/custom-alembic/madeleine-ragsdale-j0i8M-2aTPE-unsplash.jpg"
-excerpt: "A demo of Markdown and HTML includes"
+feature_image: "https://docs.opentrading.net/custom-alembic/assets/madeleine-ragsdale-j0i8M-2aTPE-unsplash.jpg"
+excerpt: "Out products..."
 aside: true
 ---
 
