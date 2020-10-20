@@ -1,5 +1,7 @@
 ---
 title: Open Trading Network
+feature_text: |
+  ## Welcome  
 feature_image: "https://docs.opentrading.net/custom-alembic/assets/damon-lam-H6EMwD6pkOE-unsplash.jpg"
 excerpt: "Open Trading Networks builds solution for the commodity and energy trading sector."
 aside: true
