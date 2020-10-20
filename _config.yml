@@ -122,7 +122,7 @@ navigation_header:
   url: /
 - title: Products
   url: /products/
-- title: Blog
+- title: Posts
   url: /blog/
 - title: Categories
   url: /categories/
