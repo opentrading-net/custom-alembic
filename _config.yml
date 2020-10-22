@@ -68,8 +68,8 @@ collections:
     description: "Open experiences in trading.." # The post list page content
     feature_image: "https://docs.opentrading.net/custom-alembic/assets/josiah-gascho-BA-sT9iabco-unsplash.jpg"
     aside: true
-  #categories:
-   # output: true
+  category:
+    output: true
 
 # 6. Jekyll collections settings
 defaults:
