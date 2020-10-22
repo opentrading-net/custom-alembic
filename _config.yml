@@ -68,6 +68,8 @@ collections:
     description: "Open experiences in trading.." # The post list page content
     feature_image: "https://docs.opentrading.net/custom-alembic/assets/josiah-gascho-BA-sT9iabco-unsplash.jpg"
     aside: true
+  categories:
+    output: true
 
 # 6. Jekyll collections settings
 defaults:
@@ -88,6 +90,12 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+  -
+    scope:
+      path: ""
+      type: "category"
+    values:
+      layout: category # Set the default layout for category
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
