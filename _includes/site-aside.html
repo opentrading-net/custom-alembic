@@ -10,7 +10,7 @@
       {% include nav-categories.html %}
     </section>
 
-  {% elsif page.layout == "page" or page.layout == "home" %}
+  {% elsif page.layout == "page" or page.layout == "home" or page.layout == "category" %}
     <section class="section  section--description">
       <h3>About this site</h3>
       <p>{{ site.description }}</p>
