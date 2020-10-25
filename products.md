@@ -1,6 +1,7 @@
 ---
 title: Products
-feature_image: "https://docs.opentrading.net/custom-alembic/assets/madeleine-ragsdale-j0i8M-2aTPE-unsplash.jpg"
+#feature_image: "https://docs.opentrading.net/custom-alembic/assets/madeleine-ragsdale-j0i8M-2aTPE-unsplash.jpg"
+feature_image: "https://docs.opentrading.net/custom-alembic/assets/Orthogonal_Tesseract_Gif-5.gif"
 excerpt: "Our products..."
 aside: true
 ---
