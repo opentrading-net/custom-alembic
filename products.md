@@ -7,5 +7,5 @@ aside: true
 
 
 
-[See Tesseract](../tesseract)
+[See Tesseract](../products/tesseract)
 
