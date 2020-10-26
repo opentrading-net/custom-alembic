@@ -122,6 +122,12 @@ defaults:
       path: "products/tesseract/development"
     values:
       feature_image: "https://docs.opentrading.net/custom-alembic/products/tesseract/images/Orthogonal_Tesseract_Gif-6.gif"
+  -
+    scope:
+      path: "products/tesseract/object-store"
+    values:
+      feature_image: "https://docs.opentrading.net/custom-alembic/products/tesseract/images/Orthogonal_Tesseract_Gif-1.gif"
+         
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
