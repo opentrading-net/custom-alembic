@@ -107,6 +107,11 @@ defaults:
       path: "products/tesseract"
     values:
       feature_image: "https://docs.opentrading.net/custom-alembic/products/tesseract/images/Orthogonal_Tesseract_Gif.gif"
+    -
+    scope:
+      path: "products/tesseract/object-store"
+    values:
+      feature_image: "https://docs.opentrading.net/custom-alembic/products/tesseract/images/Orthogonal_Tesseract_Gif-1.gif"
   -
     scope:
       path: "products/tesseract/interface"
