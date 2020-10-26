@@ -1,8 +1,6 @@
 ---
 title: View Application Programming Interface
-feature_image: "https://docs.opentrading.net/custom-alembic/tesseract/images/Orthogonal_Tesseract_Gif-2.gif"
 excerpt: "The tesseract view API"
-aside: false
 ---
 The View API is a dynamically generated interface that allows client systems to access and operate on data exposed by a [view](View.md).
 

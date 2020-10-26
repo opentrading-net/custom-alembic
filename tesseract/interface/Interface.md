@@ -1,8 +1,6 @@
 ---
 title: Interface
-feature_image: "https://docs.opentrading.net/custom-alembic/tesseract/images/Orthogonal_Tesseract_Gif-4.gif"
 excerpt: "The tesseract user and programmatic interface"
-aside: false
 ---
 
 ![Interface](../images/Interface.png)

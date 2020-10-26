@@ -1,8 +1,6 @@
 ---
 title: View
-feature_image: "https://docs.opentrading.net/custom-alembic/tesseract/images/Orthogonal_Tesseract_Gif-2.gif"
 excerpt: "The tesseract user inteface view"
-aside: false
 ---
 The View is the primary user interface construct that users (and integration tools) use to access and update data in the system.
 
