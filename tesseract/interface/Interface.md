@@ -5,8 +5,6 @@ excerpt: "The tesseract user and programmatic interface"
 aside: false
 ---
 
-# Interface
-
 ![Interface](../images/Interface.png)
 
 ## User Interface

@@ -5,8 +5,6 @@ excerpt: "Overview of Tesseract"
 aside: false
 ---
 
-# Tesseract
-
 Tesseract is a enterprise solution for flexible, high performant applictions based on an object store and scripting
 
 ![Architecture](images/Architecture.png)

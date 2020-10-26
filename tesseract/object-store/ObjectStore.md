@@ -5,8 +5,6 @@ excerpt: "The tesseract object store"
 aside: false
 ---
 
-# Object Store
-
 ![Object Store](../images/ObjectStore.png)
 
 The premise behind [Tesseract](../index.md) is that developing applications using persisted objects is much quicker than using a traditional relational database and business object mapping layer.
