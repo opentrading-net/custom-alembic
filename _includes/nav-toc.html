@@ -1,6 +1,6 @@
-{% assign mydocs = site.docs | group_by: 'topic' %}
+{% assign topics = site.docs | group_by: 'topic' %}
 <nav class="nav  nav--categories">
-  {% for topic in mydocs %}
+  {% for topic in topics %}
     <h3>{{ topic.name | capitalize }}</h3>
     <ul>
       {% assign items = topic.items | sort: 'order' %}
