@@ -1,0 +1,12 @@
+{% assign mydocs = site.docs | group_by: 'topic' %}
+<nav class="nav  nav--categories">
+  {% for topic in mydocs %}
+    <h3>{{ topic.name | capitalize }}</h3>
+    <ul>
+      {% assign items = topic.items | sort: 'order' %}
+      {% for item in items %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+</nav>
