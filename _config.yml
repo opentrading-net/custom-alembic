@@ -102,6 +102,27 @@ defaults:
     values:
       layout: product # Set the default layout for category
       aside: true
+  -
+    scope:
+      path: "products/tesseract"
+    values:
+      feature_image: "https://docs.opentrading.net/custom-alembic/tesseract/images/Orthogonal_Tesseract_Gif.gif"
+  -
+    scope:
+      path: "products/tesseract/object-store"
+    values:
+      feature_image: "https://docs.opentrading.net/custom-alembic/tesseract/images/Orthogonal_Tesseract_Gif-1.gif"
+  -
+    scope:
+      path: "products/tesseract/types-and-scripting"
+    values:
+      feature_image: "https://docs.opentrading.net/custom-alembic/tesseract/images/Orthogonal_Tesseract_Gif-2.gif"
+   -
+    scope:
+      path: "products/tesseract/interface"
+    values:
+      feature_image: "https://docs.opentrading.net/custom-alembic/tesseract/images/Orthogonal_Tesseract_Gif-3.gif"
+
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
