@@ -1,3 +1,10 @@
+---
+title: Object Store
+feature_image: "https://docs.opentrading.net/custom-alembic/tesseract/images/Orthogonal_Tesseract_Gif-2.gif"
+excerpt: "The tesseract object store"
+aside: false
+---
+
 # Object Store
 
 ![Object Store](../images/ObjectStore.png)
