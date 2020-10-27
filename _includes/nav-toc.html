@@ -4,7 +4,7 @@
     <h3>{{ topic.name | capitalize }}</h3>
     <ul>
       {% assign items = topic.items | sort: 'order' %}
-      {% for item in items %}
+      {% for item in topic.items %}
         <li><a href="{{ item.url }}">{{ item.title }}</a></li>
       {% endfor %}
     </ul>
