@@ -108,7 +108,7 @@ defaults:
     values:
       topic: Introduction
       order: 1
-      feature_image: "https://docs.opentrading.net/custom-alembic/products/tesseract/images/Orthogonal_Tesseract_Gif.gif"
+      feature_image: "https://docs.opentrading.net/custom-alembic/products/tesseract/images/Orthogonal_Tesseract_Gif-6.gif"
   -
     scope:
       path: "products/tesseract/interface"
@@ -129,7 +129,7 @@ defaults:
     values:
       topic: Development
       order: 6
-      feature_image: "https://docs.opentrading.net/custom-alembic/products/tesseract/images/Orthogonal_Tesseract_Gif-6.gif"
+      feature_image: "https://docs.opentrading.net/custom-alembic/products/tesseract/images/Orthogonal_Tesseract_Gif-7.gif"
   -
     scope:
       path: "products/tesseract/object-store"
