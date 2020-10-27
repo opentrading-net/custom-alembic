@@ -5,7 +5,7 @@
     <ul>
       {% assign items = topic.items | sort: 'order' %}
       {% for item in items %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        <li><a href="{{ item.url }}">{{ item.title }}: {{ item.order }}</a></li>
       {% endfor %}
     </ul>
   {% endfor %}
