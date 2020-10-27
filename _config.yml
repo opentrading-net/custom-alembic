@@ -109,6 +109,7 @@ defaults:
       topic: Introduction
       order: 1
       feature_image: "https://docs.opentrading.net/custom-alembic/products/tesseract/images/Orthogonal_Tesseract_Gif-6.gif"
+      product: tesseract
   -
     scope:
       path: "products/tesseract/interface"
