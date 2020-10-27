@@ -19,20 +19,23 @@ $bodytype: (
   regular: 400,
   bold: 700,
   italic: italic,
-  cap-height: 0.75
+  cap-height: 0.75,
+  font-size: small
 ) !default;
 
 $headingtype: (
   font-family: '"Gotham A","Gotham B",sans-serif',
   regular: 400,
   bold: 700,
-  cap-height: 0.75
+  cap-height: 0.75,
+  font-size: small
 ) !default;
 
 $monospacetype: (
   font-family: "Menlo, monospace",
   regular: 400,
-  cap-height: 0.68
+  cap-height: 0.68,
+  font-size: small
 ) !default;
 
 
