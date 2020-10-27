@@ -107,7 +107,7 @@ defaults:
       path: "products/tesseract"
     values:
       topic: Introduction
-      order: 1
+      order: "1"
       feature_image: "https://docs.opentrading.net/custom-alembic/products/tesseract/images/Orthogonal_Tesseract_Gif-6.gif"
       product: tesseract
   -
@@ -115,35 +115,35 @@ defaults:
       path: "products/tesseract/interface"
     values:
       topic: Interface
-      order: 3
+      order: "4"
       feature_image: "https://docs.opentrading.net/custom-alembic/products/tesseract/images/Orthogonal_Tesseract_Gif-3.gif"
   -
     scope:
       path: "products/tesseract/deployment"
     values:
       topic: Deployment
-      order: 5
+      order: "5"
       feature_image: "https://docs.opentrading.net/custom-alembic/products/tesseract/images/Orthogonal_Tesseract_Gif-5.gif"
   -
     scope:
       path: "products/tesseract/development"
     values:
       topic: Development
-      order: 6
+      order: "6"
       feature_image: "https://docs.opentrading.net/custom-alembic/products/tesseract/images/Orthogonal_Tesseract_Gif-7.gif"
   -
     scope:
       path: "products/tesseract/object-store"
     values:
       topic: "Object Store"
-      order: 1
+      order: "2"
       feature_image: "https://docs.opentrading.net/custom-alembic/products/tesseract/images/Orthogonal_Tesseract_Gif-1.gif"
   -
     scope:
       path: "products/tesseract/types-and-scripting"
     values:
       topic: "Types and Scripting"
-      order: 2
+      order: "3"
       feature_image: "https://docs.opentrading.net/custom-alembic/products/tesseract/images/Orthogonal_Tesseract_Gif-2.gif"
 
 # 7. Site settings
