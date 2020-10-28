@@ -2,6 +2,7 @@
 title: Interface
 excerpt: "The tesseract user and programmatic interface"
 ---
+# Interface
 
 ![Interface](../images/Interface.png)
 

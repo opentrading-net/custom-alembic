@@ -2,6 +2,8 @@
 title: View
 excerpt: "The tesseract user inteface view"
 ---
+# View
+
 The View is the primary user interface construct that users (and integration tools) use to access and update data in the system.
 
 A View is defined as a Tesseract type with:

@@ -1,7 +1,9 @@
 ---
-title: Setting up a DEV environment
+title: Development environment
 excerpt: "Installing a DEV instance of Tesseract"
 ---
+
+# Setting up a DEV environment
 
 1. Get a copy of the [Tesseract](https://OpenTradingNetwork@dev.azure.com/OpenTradingNetwork/Tesseract/_git/Tesseract) and build the solution in Visual Studio 2019
 2. Create assembly directories for the console assemblies and the web assemblies

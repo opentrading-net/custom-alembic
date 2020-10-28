@@ -1,7 +1,10 @@
 ---
-title: View Application Programming Interface
+title: View API
 excerpt: "The tesseract view API"
 ---
+
+# View Appliction Programming Interface
+
 The View API is a dynamically generated interface that allows client systems to access and operate on data exposed by a [view](View.md).
 
 The View API is a REST JSON based API in the [OpenApi](https://swagger.io/specification/) format. For a given view ({view} placeholder below) the REST interface will be:
